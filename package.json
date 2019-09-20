@@ -1,0 +1,12 @@
+{
+  "name": "btc-keygen",
+  "version": "0.1.0",
+  "description": "",
+  "main": "keyGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sebastinez",
+  "license": "MIT"
+}
